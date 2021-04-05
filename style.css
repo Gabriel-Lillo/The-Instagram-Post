@@ -1,0 +1,70 @@
+body {
+    background-color: black;
+
+}
+
+.post {
+    background-color: #ffffff;
+    width: 300px;
+    height: 450px;
+    margin: auto;
+}
+
+.cabeza {
+    height: 50px;
+}
+
+.html, .rigoberto,
+.puntos {
+    float: left;
+}
+
+.html {
+    font-size: 25px;
+    padding: 10px;
+}
+
+.rigoberto h5 {
+    font-family: 'Roboto', sans-serif;
+    padding: 10px;
+    margin: auto;
+}
+
+.puntos {
+    font-size: 25px;
+    float: right;
+    padding: 10px;
+    
+}
+
+.imagen {
+    height: 250px;
+}
+
+img {
+    height: 240px;
+    width: 300px;
+    padding: 0px;
+
+}
+
+.iconos {
+    padding: 10px;
+}
+.iconos i {
+    font-size: 20px;
+}
+
+.pie {
+    height: 150px;
+}
+
+.texto p {
+    padding: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 10px;
+    margin-top: auto;
+}
+
+
+
